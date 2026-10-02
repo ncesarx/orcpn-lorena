@@ -1,0 +1,6 @@
+{
+  "name": "Registro Civil de Lorena - SP",
+  "description": "Portal oficial do Registro Civil das Pessoas Naturais e de Interdições e Tutelas de Lorena - SP. Informações, certidões online, agendamento e conformidade com o Provimento 213/CNJ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
